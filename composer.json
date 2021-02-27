@@ -1,0 +1,13 @@
+{
+    "name": "ivan/programir",
+    "description": "php api application",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ivan",
+            "email": "evan4mc@gmail.com"
+        }
+    ],
+    "require": {}
+}
